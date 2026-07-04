@@ -4,10 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base target="_top">
 
-    <!-- ชื่อที่แสดงใน title bar -->
     <title>ระบบบันทึกเกียรติบัตรออนไลน์</title>
 
-    <!-- โลโก้ไอคอนที่แสดงบนแท็บเบราว์เซอร์ -->
     <link rel="icon" type="image/png" href="https://img2.pic.in.th/pic/symbol.png">
   </head>
   <body>
